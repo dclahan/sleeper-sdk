@@ -1,0 +1,3455 @@
+{
+ "tag": "2026-10-20_w7",
+ "week": 7,
+ "league": "Cadre League",
+ "rows": {
+  "11560": {
+   "name": "Caleb Williams",
+   "owner": "stacks713",
+   "cost": 8,
+   "implied_round": 8,
+   "surplus": 0,
+   "value_ppg": 19.67
+  },
+  "4984": {
+   "name": "Josh Allen",
+   "owner": "ChudRungsten",
+   "cost": null,
+   "implied_round": 4,
+   "surplus": null,
+   "value_ppg": 24.27
+  },
+  "3198": {
+   "name": "Derrick Henry",
+   "owner": "rrrobert",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 14.76
+  },
+  "8151": {
+   "name": "Kenneth Walker",
+   "owner": "loganDzook",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 20.36
+  },
+  "11646": {
+   "name": "Jalen Coker",
+   "owner": "loganDzook",
+   "cost": 7,
+   "implied_round": 3,
+   "surplus": 4,
+   "value_ppg": 11.22
+  },
+  "9221": {
+   "name": "Jahmyr Gibbs",
+   "owner": "johnokilltheoreo",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 21.67
+  },
+  "8167": {
+   "name": "Christian Watson",
+   "owner": "loganDzook",
+   "cost": 11,
+   "implied_round": 1,
+   "surplus": 10,
+   "value_ppg": 14.09
+  },
+  "12527": {
+   "name": "Ashton Jeanty",
+   "owner": "calmitchell00",
+   "cost": null,
+   "implied_round": 3,
+   "surplus": null,
+   "value_ppg": 12.33
+  },
+  "9228": {
+   "name": "Bryce Young",
+   "owner": "loganDzook",
+   "cost": 13,
+   "implied_round": 6,
+   "surplus": 7,
+   "value_ppg": 21.0
+  },
+  "6790": {
+   "name": "D'Andre Swift",
+   "owner": "calmitchell00",
+   "cost": 1,
+   "implied_round": 2,
+   "surplus": -1,
+   "value_ppg": 13.41
+  },
+  "9509": {
+   "name": "Bijan Robinson",
+   "owner": "hpak69",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 15.71
+  },
+  "6794": {
+   "name": "Justin Jefferson",
+   "owner": "xXJuulGodXx",
+   "cost": null,
+   "implied_round": 4,
+   "surplus": null,
+   "value_ppg": 11.13
+  },
+  "5892": {
+   "name": "David Montgomery",
+   "owner": "ChudRungsten",
+   "cost": 1,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 7.71
+  },
+  "7547": {
+   "name": "Amon-Ra St. Brown",
+   "owner": "jowabl",
+   "cost": null,
+   "implied_round": 2,
+   "surplus": null,
+   "value_ppg": 13.4
+  },
+  "8144": {
+   "name": "Chris Olave",
+   "owner": "hpak69",
+   "cost": 1,
+   "implied_round": 2,
+   "surplus": -1,
+   "value_ppg": 12.47
+  },
+  "8131": {
+   "name": "Isaiah Likely",
+   "owner": "hpak69",
+   "cost": 4,
+   "implied_round": 2,
+   "surplus": 2,
+   "value_ppg": 13.22
+  },
+  "9488": {
+   "name": "Jaxon Smith-Njigba",
+   "owner": "stacks713",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 18.17
+  },
+  "7523": {
+   "name": "Trevor Lawrence",
+   "owner": "ChudRungsten",
+   "cost": 11,
+   "implied_round": 7,
+   "surplus": 4,
+   "value_ppg": 19.86
+  },
+  "9997": {
+   "name": "Zay Flowers",
+   "owner": "Flynnnieboy",
+   "cost": null,
+   "implied_round": 2,
+   "surplus": null,
+   "value_ppg": 12.67
+  },
+  "12545": {
+   "name": "Tyler Shough",
+   "owner": "hpak69",
+   "cost": 13,
+   "implied_round": 9,
+   "surplus": null,
+   "value_ppg": 19.04
+  },
+  "6813": {
+   "name": "Jonathan Taylor",
+   "owner": "Flynnnieboy",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 15.17
+  },
+  "4881": {
+   "name": "Lamar Jackson",
+   "owner": "jpg107",
+   "cost": null,
+   "implied_round": 8,
+   "surplus": null,
+   "value_ppg": 19.56
+  },
+  "6904": {
+   "name": "Jalen Hurts",
+   "owner": "dolanc24football",
+   "cost": null,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 17.03
+  },
+  "8130": {
+   "name": "Trey McBride",
+   "owner": "jowabl",
+   "cost": 1,
+   "implied_round": 4,
+   "surplus": -3,
+   "value_ppg": 11.2
+  },
+  "7588": {
+   "name": "Javonte Williams",
+   "owner": "jpg107",
+   "cost": 4,
+   "implied_round": 2,
+   "surplus": 2,
+   "value_ppg": 14.02
+  },
+  "7594": {
+   "name": "Chuba Hubbard",
+   "owner": "jowabl",
+   "cost": 3,
+   "implied_round": 1,
+   "surplus": 2,
+   "value_ppg": 15.29
+  },
+  "5022": {
+   "name": "Dallas Goedert",
+   "owner": "ChudRungsten",
+   "cost": 10,
+   "implied_round": 6,
+   "surplus": 4,
+   "value_ppg": 8.7
+  },
+  "4046": {
+   "name": "Patrick Mahomes",
+   "owner": "Flynnnieboy",
+   "cost": 12,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 18.8
+  },
+  "8183": {
+   "name": "Brock Purdy",
+   "owner": "johnokilltheoreo",
+   "cost": 7,
+   "implied_round": 5,
+   "surplus": 2,
+   "value_ppg": 21.14
+  },
+  "7569": {
+   "name": "Nico Collins",
+   "owner": "jpg107",
+   "cost": null,
+   "implied_round": 3,
+   "surplus": null,
+   "value_ppg": 12.35
+  },
+  "4983": {
+   "name": "DJ Moore",
+   "owner": "johnokilltheoreo",
+   "cost": 1,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.32
+  },
+  "6804": {
+   "name": "Jordan Love",
+   "owner": "rrrobert",
+   "cost": 13,
+   "implied_round": 8,
+   "surplus": 5,
+   "value_ppg": 19.28
+  },
+  "12534": {
+   "name": "Kyle Monangai",
+   "owner": "rrrobert",
+   "cost": 5,
+   "implied_round": 3,
+   "surplus": 2,
+   "value_ppg": 12.28
+  },
+  "11584": {
+   "name": "Bucky Irving",
+   "owner": "Flynnnieboy",
+   "cost": 1,
+   "implied_round": 4,
+   "surplus": -3,
+   "value_ppg": 11.56
+  },
+  "11834": {
+   "name": "Devaughn Vele",
+   "owner": "stacks713",
+   "cost": 13,
+   "implied_round": 7,
+   "surplus": 6,
+   "value_ppg": 8.44
+  },
+  "8155": {
+   "name": "Breece Hall",
+   "owner": "stacks713",
+   "cost": null,
+   "implied_round": 5,
+   "surplus": null,
+   "value_ppg": 10.54
+  },
+  "9487": {
+   "name": "Parker Washington",
+   "owner": "jowabl",
+   "cost": 11,
+   "implied_round": 3,
+   "surplus": 8,
+   "value_ppg": 11.49
+  },
+  "11635": {
+   "name": "Ladd McConkey",
+   "owner": "xXJuulGodXx",
+   "cost": null,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.44
+  },
+  "4993": {
+   "name": "Mike Gesicki",
+   "owner": "hpak69",
+   "cost": 13,
+   "implied_round": 6,
+   "surplus": 7,
+   "value_ppg": 8.62
+  },
+  "9224": {
+   "name": "Chase Brown",
+   "owner": "xXJuulGodXx",
+   "cost": null,
+   "implied_round": 6,
+   "surplus": null,
+   "value_ppg": 9.64
+  },
+  "10236": {
+   "name": "Dalton Kincaid",
+   "owner": "stacks713",
+   "cost": 6,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.53
+  },
+  "5872": {
+   "name": "Deebo Samuel",
+   "owner": "jowabl",
+   "cost": 7,
+   "implied_round": 5,
+   "surplus": 2,
+   "value_ppg": 9.33
+  },
+  "8161": {
+   "name": "Malik Willis",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 14.91
+  },
+  "11566": {
+   "name": "Jayden Daniels",
+   "owner": "Flynnnieboy",
+   "cost": 4,
+   "implied_round": 6,
+   "surplus": -2,
+   "value_ppg": 20.77
+  },
+  "2216": {
+   "name": "Mike Evans",
+   "owner": "Flynnnieboy",
+   "cost": 2,
+   "implied_round": 3,
+   "surplus": -1,
+   "value_ppg": 11.33
+  },
+  "3257": {
+   "name": "Jacoby Brissett",
+   "owner": "hpak69",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 16.97
+  },
+  "9758": {
+   "name": "C.J. Stroud",
+   "owner": "jowabl",
+   "cost": 13,
+   "implied_round": 8,
+   "surplus": 5,
+   "value_ppg": 19.3
+  },
+  "3163": {
+   "name": "Jared Goff",
+   "owner": "xXJuulGodXx",
+   "cost": 9,
+   "implied_round": 5,
+   "surplus": 4,
+   "value_ppg": 21.93
+  },
+  "13301": {
+   "name": "Antonio Williams",
+   "owner": "Flynnnieboy",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.27
+  },
+  "3634": {
+   "name": "Kalif Raymond",
+   "owner": "Flynnnieboy",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 6.88
+  },
+  "1166": {
+   "name": "Kirk Cousins",
+   "owner": "xXJuulGodXx",
+   "cost": 13,
+   "implied_round": 9,
+   "surplus": 4,
+   "value_ppg": 19.23
+  },
+  "7600": {
+   "name": "Pat Freiermuth",
+   "owner": "loganDzook",
+   "cost": 13,
+   "implied_round": 7,
+   "surplus": 6,
+   "value_ppg": 8.44
+  },
+  "2449": {
+   "name": "Stefon Diggs",
+   "owner": "jpg107",
+   "cost": 5,
+   "implied_round": 4,
+   "surplus": 1,
+   "value_ppg": 10.08
+  },
+  "4454": {
+   "name": "Kendrick Bourne",
+   "owner": "jowabl",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.24
+  },
+  "12501": {
+   "name": "Matthew Golden",
+   "owner": "hpak69",
+   "cost": 6,
+   "implied_round": 2,
+   "surplus": 4,
+   "value_ppg": 12.67
+  },
+  "8150": {
+   "name": "Kyren Williams",
+   "owner": "hpak69",
+   "cost": null,
+   "implied_round": 2,
+   "surplus": null,
+   "value_ppg": 14.55
+  },
+  "6786": {
+   "name": "CeeDee Lamb",
+   "owner": "dolanc24football",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 14.3
+  },
+  "3294": {
+   "name": "Dak Prescott",
+   "owner": "calmitchell00",
+   "cost": 5,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 18.16
+  },
+  "9486": {
+   "name": "Dontayvion Wicks",
+   "owner": "ChudRungsten",
+   "cost": 14,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.1
+  },
+  "6770": {
+   "name": "Joe Burrow",
+   "owner": "rrrobert",
+   "cost": 3,
+   "implied_round": 6,
+   "surplus": -3,
+   "value_ppg": 20.66
+  },
+  "4017": {
+   "name": "Deshaun Watson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 15.91
+  },
+  "7543": {
+   "name": "Travis Etienne",
+   "owner": "johnokilltheoreo",
+   "cost": null,
+   "implied_round": 9,
+   "surplus": null,
+   "value_ppg": 8.39
+  },
+  "7611": {
+   "name": "Rhamondre Stevenson",
+   "owner": "ChudRungsten",
+   "cost": 6,
+   "implied_round": 7,
+   "surplus": -1,
+   "value_ppg": 9.2
+  },
+  "7002": {
+   "name": "Juwan Johnson",
+   "owner": "dolanc24football",
+   "cost": 9,
+   "implied_round": 8,
+   "surplus": 1,
+   "value_ppg": 7.97
+  },
+  "4066": {
+   "name": "Evan Engram",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.11
+  },
+  "6797": {
+   "name": "Justin Herbert",
+   "owner": "xXJuulGodXx",
+   "cost": 12,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 13.8
+  },
+  "12481": {
+   "name": "Cam Skattebo",
+   "owner": "dolanc24football",
+   "cost": 3,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 7.44
+  },
+  "13346": {
+   "name": "Denzel Boston",
+   "owner": "rrrobert",
+   "cost": 7,
+   "implied_round": 5,
+   "surplus": 2,
+   "value_ppg": 9.24
+  },
+  "8146": {
+   "name": "Garrett Wilson",
+   "owner": "rrrobert",
+   "cost": null,
+   "implied_round": 4,
+   "surplus": null,
+   "value_ppg": 11.18
+  },
+  "6130": {
+   "name": "Devin Singletary",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.59
+  },
+  "4034": {
+   "name": "Christian McCaffrey",
+   "owner": "ChudRungsten",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 15.48
+  },
+  "5844": {
+   "name": "T.J. Hockenson",
+   "owner": "ChudRungsten",
+   "cost": 13,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.52
+  },
+  "5857": {
+   "name": "Noah Fant",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.24
+  },
+  "13287": {
+   "name": "Jeremiyah Love",
+   "owner": "calmitchell00",
+   "cost": 2,
+   "implied_round": 8,
+   "surplus": -6,
+   "value_ppg": 8.6
+  },
+  "11632": {
+   "name": "Malik Nabers",
+   "owner": "loganDzook",
+   "cost": null,
+   "implied_round": 2,
+   "surplus": null,
+   "value_ppg": 12.79
+  },
+  "11564": {
+   "name": "Drake Maye",
+   "owner": "loganDzook",
+   "cost": 6,
+   "implied_round": 6,
+   "surplus": 0,
+   "value_ppg": 20.51
+  },
+  "12533": {
+   "name": "Jacory Croskey-Merritt",
+   "owner": "stacks713",
+   "cost": 4,
+   "implied_round": 8,
+   "surplus": -4,
+   "value_ppg": 8.56
+  },
+  "96": {
+   "name": "Aaron Rodgers",
+   "owner": "dolanc24football",
+   "cost": 13,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 18.29
+  },
+  "9493": {
+   "name": "Puka Nacua",
+   "owner": "jpg107",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 14.48
+  },
+  "5947": {
+   "name": "Jakobi Meyers",
+   "owner": "calmitchell00",
+   "cost": 6,
+   "implied_round": 7,
+   "surplus": -1,
+   "value_ppg": 8.19
+  },
+  "12522": {
+   "name": "Cam Ward",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 13.82
+  },
+  "4892": {
+   "name": "Baker Mayfield",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 15.22
+  },
+  "6826": {
+   "name": "Cole Kmet",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.9
+  },
+  "13330": {
+   "name": "Kenyon Sadiq",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.8
+  },
+  "12483": {
+   "name": "Jack Bech",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.64
+  },
+  "12514": {
+   "name": "Emeka Egbuka",
+   "owner": "dolanc24football",
+   "cost": 1,
+   "implied_round": 5,
+   "surplus": -4,
+   "value_ppg": 9.23
+  },
+  "9226": {
+   "name": "De'Von Achane",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 7.48
+  },
+  "10232": {
+   "name": "Michael Wilson",
+   "owner": "xXJuulGodXx",
+   "cost": 10,
+   "implied_round": 6,
+   "surplus": 4,
+   "value_ppg": 8.59
+  },
+  "12526": {
+   "name": "Tetairoa McMillan",
+   "owner": "hpak69",
+   "cost": null,
+   "implied_round": 2,
+   "surplus": null,
+   "value_ppg": 12.81
+  },
+  "7670": {
+   "name": "Joshua Palmer",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.7
+  },
+  "8228": {
+   "name": "Jaylen Warren",
+   "owner": "jowabl",
+   "cost": 2,
+   "implied_round": 2,
+   "surplus": 0,
+   "value_ppg": 13.72
+  },
+  "9480": {
+   "name": "Brenton Strange",
+   "owner": "xXJuulGodXx",
+   "cost": 13,
+   "implied_round": 8,
+   "surplus": 5,
+   "value_ppg": 7.92
+  },
+  "12518": {
+   "name": "Tyler Warren",
+   "owner": "loganDzook",
+   "cost": 1,
+   "implied_round": 4,
+   "surplus": -3,
+   "value_ppg": 10.13
+  },
+  "1466": {
+   "name": "Travis Kelce",
+   "owner": "johnokilltheoreo",
+   "cost": 5,
+   "implied_round": 5,
+   "surplus": 0,
+   "value_ppg": 9.22
+  },
+  "5870": {
+   "name": "Daniel Jones",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 13.71
+  },
+  "4199": {
+   "name": "Aaron Jones",
+   "owner": "xXJuulGodXx",
+   "cost": 7,
+   "implied_round": 4,
+   "surplus": 3,
+   "value_ppg": 11.66
+  },
+  "13394": {
+   "name": "Josh Cameron",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 5.36
+  },
+  "10229": {
+   "name": "Rashee Rice",
+   "owner": "jpg107",
+   "cost": 1,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.61
+  },
+  "8138": {
+   "name": "James Cook",
+   "owner": "loganDzook",
+   "cost": null,
+   "implied_round": 1,
+   "surplus": null,
+   "value_ppg": 15.65
+  },
+  "10859": {
+   "name": "Sam LaPorta",
+   "owner": "jpg107",
+   "cost": 3,
+   "implied_round": 3,
+   "surplus": 0,
+   "value_ppg": 11.37
+  },
+  "12490": {
+   "name": "Bhayshul Tuten",
+   "owner": "jpg107",
+   "cost": 2,
+   "implied_round": 3,
+   "surplus": -1,
+   "value_ppg": 12.43
+  },
+  "12519": {
+   "name": "Luther Burden",
+   "owner": "johnokilltheoreo",
+   "cost": 6,
+   "implied_round": 5,
+   "surplus": 1,
+   "value_ppg": 9.26
+  },
+  "9484": {
+   "name": "Tucker Kraft",
+   "owner": "rrrobert",
+   "cost": 3,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.56
+  },
+  "1373": {
+   "name": "Geno Smith",
+   "owner": "stacks713",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 15.24
+  },
+  "9482": {
+   "name": "Michael Mayer",
+   "owner": "hpak69",
+   "cost": 13,
+   "implied_round": 8,
+   "surplus": 5,
+   "value_ppg": 7.93
+  },
+  "1479": {
+   "name": "Keenan Allen",
+   "owner": "jpg107",
+   "cost": 13,
+   "implied_round": 7,
+   "surplus": 6,
+   "value_ppg": 8.4
+  },
+  "4177": {
+   "name": "Mack Hollins",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.4
+  },
+  "9757": {
+   "name": "Kendre Miller",
+   "owner": "jowabl",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.84
+  },
+  "8134": {
+   "name": "Khalil Shakir",
+   "owner": "ChudRungsten",
+   "cost": 7,
+   "implied_round": 9,
+   "surplus": null,
+   "value_ppg": 7.73
+  },
+  "4866": {
+   "name": "Saquon Barkley",
+   "owner": "rrrobert",
+   "cost": null,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 6.29
+  },
+  "8132": {
+   "name": "Tyler Allgeier",
+   "owner": "johnokilltheoreo",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 6.41
+  },
+  "6801": {
+   "name": "Tee Higgins",
+   "owner": "xXJuulGodXx",
+   "cost": 1,
+   "implied_round": 4,
+   "surplus": -3,
+   "value_ppg": 10.82
+  },
+  "5012": {
+   "name": "Mark Andrews",
+   "owner": "jpg107",
+   "cost": 6,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.0
+  },
+  "13337": {
+   "name": "Emmett Johnson",
+   "owner": "loganDzook",
+   "cost": 12,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 5.15
+  },
+  "6819": {
+   "name": "Michael Pittman",
+   "owner": "xXJuulGodXx",
+   "cost": 5,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.57
+  },
+  "8126": {
+   "name": "Wan'Dale Robinson",
+   "owner": "Flynnnieboy",
+   "cost": 11,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.49
+  },
+  "8148": {
+   "name": "Jameson Williams",
+   "owner": "calmitchell00",
+   "cost": 2,
+   "implied_round": 5,
+   "surplus": -3,
+   "value_ppg": 9.52
+  },
+  "4037": {
+   "name": "Chris Godwin",
+   "owner": "rrrobert",
+   "cost": 4,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.36
+  },
+  "12507": {
+   "name": "Omarion Hampton",
+   "owner": "dolanc24football",
+   "cost": null,
+   "implied_round": 9,
+   "surplus": null,
+   "value_ppg": 8.45
+  },
+  "7525": {
+   "name": "DeVonta Smith",
+   "owner": "johnokilltheoreo",
+   "cost": null,
+   "implied_round": 3,
+   "surplus": null,
+   "value_ppg": 11.84
+  },
+  "12492": {
+   "name": "Pat Bryant",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.27
+  },
+  "12489": {
+   "name": "RJ Harvey",
+   "owner": "xXJuulGodXx",
+   "cost": 3,
+   "implied_round": 9,
+   "surplus": -6,
+   "value_ppg": 8.5
+  },
+  "12499": {
+   "name": "Elic Ayomanor",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 4.68
+  },
+  "5846": {
+   "name": "DK Metcalf",
+   "owner": "johnokilltheoreo",
+   "cost": 3,
+   "implied_round": 6,
+   "surplus": -3,
+   "value_ppg": 8.88
+  },
+  "4147": {
+   "name": "Samaje Perine",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.57
+  },
+  "13414": {
+   "name": "Kaelon Black",
+   "owner": "rrrobert",
+   "cost": 8,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 4.62
+  },
+  "13279": {
+   "name": "Carnell Tate",
+   "owner": "calmitchell00",
+   "cost": 2,
+   "implied_round": 6,
+   "surplus": -4,
+   "value_ppg": 8.8
+  },
+  "13298": {
+   "name": "KC Concepcion",
+   "owner": "dolanc24football",
+   "cost": 4,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.64
+  },
+  "13286": {
+   "name": "Jadarian Price",
+   "owner": "johnokilltheoreo",
+   "cost": 2,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.76
+  },
+  "5001": {
+   "name": "Dalton Schultz",
+   "owner": "Flynnnieboy",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 6.89
+  },
+  "12536": {
+   "name": "Jaylin Noel",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 5,
+   "surplus": 8,
+   "value_ppg": 9.5
+  },
+  "13420": {
+   "name": "Bryce Lance",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.27
+  },
+  "11620": {
+   "name": "Rome Odunze",
+   "owner": "stacks713",
+   "cost": 2,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 6.86
+  },
+  "13421": {
+   "name": "Eli Raridon",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 5.39
+  },
+  "13079": {
+   "name": "Jahdae Walker",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 2.9
+  },
+  "11631": {
+   "name": "Brian Thomas",
+   "owner": "ChudRungsten",
+   "cost": 3,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.54
+  },
+  "12512": {
+   "name": "Quinshon Judkins",
+   "owner": "dolanc24football",
+   "cost": 2,
+   "implied_round": 7,
+   "surplus": -5,
+   "value_ppg": 9.28
+  },
+  "4144": {
+   "name": "Jonnu Smith",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.43
+  },
+  "9501": {
+   "name": "DeMario Douglas",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 6,
+   "surplus": 7,
+   "value_ppg": 8.79
+  },
+  "12502": {
+   "name": "Gunnar Helm",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.6
+  },
+  "13317": {
+   "name": "Ted Hurst",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.52
+  },
+  "11563": {
+   "name": "Bo Nix",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 13.87
+  },
+  "11610": {
+   "name": "Malik Washington",
+   "owner": "jowabl",
+   "cost": 9,
+   "implied_round": 8,
+   "surplus": 1,
+   "value_ppg": 7.9
+  },
+  "3269": {
+   "name": "Chris Moore",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 4.93
+  },
+  "10218": {
+   "name": "Xavier Hutchinson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.19
+  },
+  "8137": {
+   "name": "George Pickens",
+   "owner": "calmitchell00",
+   "cost": null,
+   "implied_round": 4,
+   "surplus": null,
+   "value_ppg": 10.39
+  },
+  "9500": {
+   "name": "Josh Downs",
+   "owner": "rrrobert",
+   "cost": 5,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.11
+  },
+  "8180": {
+   "name": "Jalen Nailor",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.67
+  },
+  "8111": {
+   "name": "Cade Otton",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 5.44
+  },
+  "12472": {
+   "name": "Raheim Sanders",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 5.02
+  },
+  "11630": {
+   "name": "Roman Wilson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.61
+  },
+  "2133": {
+   "name": "Davante Adams",
+   "owner": "hpak69",
+   "cost": 2,
+   "implied_round": 3,
+   "surplus": -1,
+   "value_ppg": 12.11
+  },
+  "3214": {
+   "name": "Hunter Henry",
+   "owner": "dolanc24football",
+   "cost": 6,
+   "implied_round": 8,
+   "surplus": -2,
+   "value_ppg": 7.9
+  },
+  "8112": {
+   "name": "Drake London",
+   "owner": "stacks713",
+   "cost": null,
+   "implied_round": 4,
+   "surplus": null,
+   "value_ppg": 11.05
+  },
+  "7694": {
+   "name": "Tommy Tremble",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.36
+  },
+  "4039": {
+   "name": "Cooper Kupp",
+   "owner": "jpg107",
+   "cost": 14,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.06
+  },
+  "11586": {
+   "name": "Blake Corum",
+   "owner": "loganDzook",
+   "cost": 13,
+   "implied_round": 9,
+   "surplus": 4,
+   "value_ppg": 8.46
+  },
+  "12493": {
+   "name": "Oronde Gadsden",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 4.8
+  },
+  "421": {
+   "name": "Matthew Stafford",
+   "owner": "jpg107",
+   "cost": 7,
+   "implied_round": 9,
+   "surplus": null,
+   "value_ppg": 19.01
+  },
+  "12509": {
+   "name": "Tre' Harris",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.55
+  },
+  "12474": {
+   "name": "Woody Marks",
+   "owner": "ChudRungsten",
+   "cost": 8,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 8.21
+  },
+  "6001": {
+   "name": "Drew Sample",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.14
+  },
+  "11624": {
+   "name": "Xavier Worthy",
+   "owner": "Flynnnieboy",
+   "cost": 7,
+   "implied_round": 9,
+   "surplus": null,
+   "value_ppg": 7.71
+  },
+  "2505": {
+   "name": "Darren Waller",
+   "owner": "hpak69",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 6.73
+  },
+  "7090": {
+   "name": "Darnell Mooney",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.26
+  },
+  "8136": {
+   "name": "Rachaad White",
+   "owner": "jowabl",
+   "cost": 13,
+   "implied_round": 9,
+   "surplus": 4,
+   "value_ppg": 8.54
+  },
+  "10213": {
+   "name": "Tre Tucker",
+   "owner": "jowabl",
+   "cost": 13,
+   "implied_round": 4,
+   "surplus": 9,
+   "value_ppg": 10.47
+  },
+  "6783": {
+   "name": "Jerry Jeudy",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.04
+  },
+  "13285": {
+   "name": "Malachi Fields",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.65
+  },
+  "9508": {
+   "name": "Tyjae Spears",
+   "owner": "calmitchell00",
+   "cost": 12,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.7
+  },
+  "5967": {
+   "name": "Tony Pollard",
+   "owner": "dolanc24football",
+   "cost": 5,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 8.11
+  },
+  "11628": {
+   "name": "Marvin Harrison",
+   "owner": "loganDzook",
+   "cost": 2,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.62
+  },
+  "5973": {
+   "name": "Josh Oliver",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 4.4
+  },
+  "2359": {
+   "name": "Ameer Abdullah",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 3.05
+  },
+  "11783": {
+   "name": "Ryan Flournoy",
+   "owner": "dolanc24football",
+   "cost": 13,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.54
+  },
+  "7021": {
+   "name": "Rico Dowdle",
+   "owner": "jpg107",
+   "cost": 11,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 6.5
+  },
+  "13305": {
+   "name": "Mike Washington",
+   "owner": "rrrobert",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 5.49
+  },
+  "12506": {
+   "name": "Harold Fannin",
+   "owner": "calmitchell00",
+   "cost": 11,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.19
+  },
+  "11576": {
+   "name": "Braelon Allen",
+   "owner": "calmitchell00",
+   "cost": 10,
+   "implied_round": 7,
+   "surplus": 3,
+   "value_ppg": 9.08
+  },
+  "11280": {
+   "name": "Brady Russell",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 3.06
+  },
+  "7842": {
+   "name": "Luke Farrell",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.7
+  },
+  "8172": {
+   "name": "Greg Dulcich",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.5
+  },
+  "5995": {
+   "name": "Justice Hill",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 5.42
+  },
+  "9479": {
+   "name": "Darnell Washington",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 6.69
+  },
+  "13264": {
+   "name": "Dohnte Meyers",
+   "owner": "hpak69",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.57
+  },
+  "11581": {
+   "name": "MarShawn Lloyd",
+   "owner": "ChudRungsten",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 7.13
+  },
+  "9754": {
+   "name": "Quentin Johnston",
+   "owner": "rrrobert",
+   "cost": 11,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.47
+  },
+  "6806": {
+   "name": "J.K. Dobbins",
+   "owner": "stacks713",
+   "cost": 3,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 8.33
+  },
+  "8210": {
+   "name": "Chig Okonkwo",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.66
+  },
+  "13311": {
+   "name": "Chris Bell",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 4.45
+  },
+  "5985": {
+   "name": "Foster Moreau",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.18
+  },
+  "12699": {
+   "name": "LaJohntay Wester",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.72
+  },
+  "11593": {
+   "name": "Brevyn Spann-Ford",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.62
+  },
+  "5927": {
+   "name": "Terry McLaurin",
+   "owner": "ChudRungsten",
+   "cost": 2,
+   "implied_round": 9,
+   "surplus": -7,
+   "value_ppg": 7.77
+  },
+  "7716": {
+   "name": "John Bates",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 2.89
+  },
+  "11603": {
+   "name": "AJ Barner",
+   "owner": "johnokilltheoreo",
+   "cost": 10,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 5.42
+  },
+  "7564": {
+   "name": "Ja'Marr Chase",
+   "owner": "calmitchell00",
+   "cost": null,
+   "implied_round": 3,
+   "surplus": null,
+   "value_ppg": 11.59
+  },
+  "4217": {
+   "name": "George Kittle",
+   "owner": "Flynnnieboy",
+   "cost": 5,
+   "implied_round": 3,
+   "surplus": 2,
+   "value_ppg": 11.4
+  },
+  "5045": {
+   "name": "Courtland Sutton",
+   "owner": "calmitchell00",
+   "cost": 3,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 5.29
+  },
+  "9504": {
+   "name": "Kayshon Boutte",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.11
+  },
+  "8154": {
+   "name": "Brian Robinson",
+   "owner": "jowabl",
+   "cost": 13,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 8.32
+  },
+  "6869": {
+   "name": "Adam Trautman",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.5
+  },
+  "8119": {
+   "name": "Jahan Dotson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 9,
+   "surplus": null,
+   "value_ppg": 7.69
+  },
+  "11370": {
+   "name": "Chris Brooks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.84
+  },
+  "12048": {
+   "name": "George Holani",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.8
+  },
+  "7567": {
+   "name": "Kenny Gainwell",
+   "owner": "xXJuulGodXx",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 5.43
+  },
+  "6828": {
+   "name": "AJ Dillon",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.97
+  },
+  "11729": {
+   "name": "Sione Vaki",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 4.38
+  },
+  "8110": {
+   "name": "Jake Ferguson",
+   "owner": "stacks713",
+   "cost": 5,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.23
+  },
+  "13307": {
+   "name": "Marlin Klein",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.66
+  },
+  "13294": {
+   "name": "Makai Lemon",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 4.95
+  },
+  "11201": {
+   "name": "Blake Whiteheart",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.49
+  },
+  "10219": {
+   "name": "Chris Rodriguez",
+   "owner": "Flynnnieboy",
+   "cost": 10,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 6.1
+  },
+  "13324": {
+   "name": "Matt Hibner",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.63
+  },
+  "10214": {
+   "name": "Davis Allen",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.37
+  },
+  "11056": {
+   "name": "Jared Wayne",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.57
+  },
+  "11577": {
+   "name": "Will Shipley",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 5.25
+  },
+  "10871": {
+   "name": "Luke Schoonmaker",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.81
+  },
+  "8204": {
+   "name": "Bo Melton",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 2.92
+  },
+  "10225": {
+   "name": "Jonathan Mingo",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 2.85
+  },
+  "12817": {
+   "name": "Jake Briningstool",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.7
+  },
+  "12473": {
+   "name": "Mitchell Evans",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.8
+  },
+  "11597": {
+   "name": "Theo Johnson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.56
+  },
+  "13299": {
+   "name": "Nate Boerkircher",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.26
+  },
+  "12498": {
+   "name": "Mason Taylor",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.58
+  },
+  "8917": {
+   "name": "KaVontae Turpin",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.51
+  },
+  "11623": {
+   "name": "Jordan Whittington",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.8
+  },
+  "5906": {
+   "name": "Dawson Knox",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.78
+  },
+  "11608": {
+   "name": "Isaiah Williams",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.59
+  },
+  "8225": {
+   "name": "Daniel Bellinger",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 2.93
+  },
+  "13405": {
+   "name": "Kaytron Allen",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.69
+  },
+  "6865": {
+   "name": "Colby Parkinson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 4.99
+  },
+  "7828": {
+   "name": "Noah Gray",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 4.89
+  },
+  "7891": {
+   "name": "Brock Wright",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.34
+  },
+  "6271": {
+   "name": "Olamide Zaccheaus",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.69
+  },
+  "8145": {
+   "name": "Jeremy Ruckert",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.9
+  },
+  "5409": {
+   "name": "Tanner Hudson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.07
+  },
+  "12641": {
+   "name": "Jaylin Lane",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.4
+  },
+  "5008": {
+   "name": "Durham Smythe",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 2.98
+  },
+  "8676": {
+   "name": "Rashid Shaheed",
+   "owner": "johnokilltheoreo",
+   "cost": 8,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.45
+  },
+  "7526": {
+   "name": "Jaylen Waddle",
+   "owner": "loganDzook",
+   "cost": 1,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.34
+  },
+  "13277": {
+   "name": "CJ Donaldson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.68
+  },
+  "3271": {
+   "name": "Tyler Higbee",
+   "owner": "stacks713",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 7.01
+  },
+  "6931": {
+   "name": "DeeJay Dallas",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 3.64
+  },
+  "11637": {
+   "name": "Keon Coleman",
+   "owner": "johnokilltheoreo",
+   "cost": 13,
+   "implied_round": 5,
+   "surplus": 8,
+   "value_ppg": 9.28
+  },
+  "12491": {
+   "name": "Corey Kiner",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 4.41
+  },
+  "13424": {
+   "name": "Seth McGowan",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.97
+  },
+  "9511": {
+   "name": "Keaton Mitchell",
+   "owner": "johnokilltheoreo",
+   "cost": 9,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 6.08
+  },
+  "11599": {
+   "name": "Cade Stover",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.73
+  },
+  "13329": {
+   "name": "Malik Benson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.49
+  },
+  "5849": {
+   "name": "Kyler Murray",
+   "owner": "ChudRungsten",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 14.05
+  },
+  "4943": {
+   "name": "Sam Darnold",
+   "owner": "johnokilltheoreo",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 15.42
+  },
+  "11627": {
+   "name": "Troy Franklin",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.41
+  },
+  "9225": {
+   "name": "Tank Bigsby",
+   "owner": "hpak69",
+   "cost": 5,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 5.6
+  },
+  "11575": {
+   "name": "Ray Davis",
+   "owner": "dolanc24football",
+   "cost": 14,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 3.42
+  },
+  "13533": {
+   "name": "Barion Brown",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.67
+  },
+  "11435": {
+   "name": "Emanuel Wilson",
+   "owner": "hpak69",
+   "cost": 13,
+   "implied_round": 7,
+   "surplus": 6,
+   "value_ppg": 9.11
+  },
+  "8181": {
+   "name": "Connor Heyward",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.66
+  },
+  "11273": {
+   "name": "Ben VanSumeren",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.77
+  },
+  "13413": {
+   "name": "Cyrus Allen",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.15
+  },
+  "12455": {
+   "name": "Brashard Smith",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.89
+  },
+  "11433": {
+   "name": "Nate Adkins",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.23
+  },
+  "9494": {
+   "name": "Marvin Mims",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.51
+  },
+  "12505": {
+   "name": "Jalen Royals",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.22
+  },
+  "8188": {
+   "name": "Tyquan Thornton",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 5,
+   "surplus": 8,
+   "value_ppg": 9.66
+  },
+  "11320": {
+   "name": "Nikko Remigio",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.21
+  },
+  "8527": {
+   "name": "Dareke Young",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.56
+  },
+  "8484": {
+   "name": "Ko Kieft",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.55
+  },
+  "7571": {
+   "name": "Rashod Bateman",
+   "owner": "xXJuulGodXx",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.47
+  },
+  "7536": {
+   "name": "Quintin Morris",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.44
+  },
+  "7531": {
+   "name": "Feleipe Franks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.55
+  },
+  "7049": {
+   "name": "Jauan Jennings",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.15
+  },
+  "7039": {
+   "name": "Cody White",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.11
+  },
+  "5970": {
+   "name": "Greg Dortch",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "14026": {
+   "name": "DJ Herman",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 3.04
+  },
+  "13491": {
+   "name": "Kaden Wetjen",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "13320": {
+   "name": "Zachariah Branch",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.25
+  },
+  "13308": {
+   "name": "Bauer Sharp",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.71
+  },
+  "12543": {
+   "name": "Tahj Brooks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.77
+  },
+  "12503": {
+   "name": "Isaiah Bond",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.75
+  },
+  "12357": {
+   "name": "David Martin-Robinson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.55
+  },
+  "10227": {
+   "name": "Payne Durham",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.46
+  },
+  "8122": {
+   "name": "Zonovan Knight",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 4.48
+  },
+  "7757": {
+   "name": "Ben Skowronek",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.1
+  },
+  "7553": {
+   "name": "Kyle Pitts",
+   "owner": "rrrobert",
+   "cost": 6,
+   "implied_round": 7,
+   "surplus": -1,
+   "value_ppg": 8.16
+  },
+  "7075": {
+   "name": "Charlie Woerner",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.57
+  },
+  "6588": {
+   "name": "Tom Kennedy",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.54
+  },
+  "4981": {
+   "name": "Calvin Ridley",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.55
+  },
+  "4602": {
+   "name": "Robert Tonyan",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.4
+  },
+  "3048": {
+   "name": "Chris Manhertz",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "13273": {
+   "name": "Josh Cuevas",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 4.87
+  },
+  "13150": {
+   "name": "Darius Cooper",
+   "owner": "xXJuulGodXx",
+   "cost": 13,
+   "implied_round": 11,
+   "surplus": null,
+   "value_ppg": 7.4
+  },
+  "12544": {
+   "name": "LeQuint Allen",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.74
+  },
+  "12171": {
+   "name": "British Brooks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 3.58
+  },
+  "12079": {
+   "name": "Treyton Welch",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.55
+  },
+  "11994": {
+   "name": "Kameron Johnson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.41
+  },
+  "11157": {
+   "name": "Brycen Tremayne",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 4.53
+  },
+  "8250": {
+   "name": "Tay Martin",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.54
+  },
+  "8219": {
+   "name": "Jelani Woods",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 3.0
+  },
+  "8200": {
+   "name": "Kevin Austin",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.02
+  },
+  "13516": {
+   "name": "Max Bredeson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.77
+  },
+  "13434": {
+   "name": "Will Kacmarek",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.12
+  },
+  "13433": {
+   "name": "Riley Nowakowski",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.52
+  },
+  "13338": {
+   "name": "Kevin Coleman",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 4.49
+  },
+  "13333": {
+   "name": "Deion Burks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.45
+  },
+  "13075": {
+   "name": "Myles Price",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.85
+  },
+  "12765": {
+   "name": "Keleki Latu",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "12658": {
+   "name": "Jackson Hawes",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "11942": {
+   "name": "Colson Yankoff",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.72
+  },
+  "11647": {
+   "name": "Kimani Vidal",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 6.53
+  },
+  "11617": {
+   "name": "Malachi Corley",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.1
+  },
+  "11570": {
+   "name": "Rasheen Ali",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.52
+  },
+  "11237": {
+   "name": "Jacob Saylors",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.77
+  },
+  "10234": {
+   "name": "Derius Davis",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.27
+  },
+  "4054": {
+   "name": "Mo Alie-Cox",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.86
+  },
+  "3202": {
+   "name": "Austin Hooper",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.84
+  },
+  "13580": {
+   "name": "Carsen Ryan",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.55
+  },
+  "13429": {
+   "name": "Seydou Traore",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.55
+  },
+  "13411": {
+   "name": "Zavion Thomas",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.34
+  },
+  "13322": {
+   "name": "Sam Roush",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 2.85
+  },
+  "13274": {
+   "name": "Germie Bernard",
+   "owner": "loganDzook",
+   "cost": 13,
+   "implied_round": 8,
+   "surplus": 5,
+   "value_ppg": 7.87
+  },
+  "13013": {
+   "name": "Mark Redman",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.8
+  },
+  "12700": {
+   "name": "Gavin Bartholomew",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.63
+  },
+  "11592": {
+   "name": "Erick All",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.38
+  },
+  "11571": {
+   "name": "Isaiah Davis",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 3.28
+  },
+  "11421": {
+   "name": "Ryan Miller",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.57
+  },
+  "11304": {
+   "name": "E.J. Jenkins",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "10235": {
+   "name": "Roschon Johnson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.76
+  },
+  "10212": {
+   "name": "Josh Whyle",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "8489": {
+   "name": "Drew Ogletree",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.44
+  },
+  "8168": {
+   "name": "Skyy Moore",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.47
+  },
+  "8127": {
+   "name": "Charlie Kolar",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.57
+  },
+  "7595": {
+   "name": "Tylan Wallace",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.16
+  },
+  "7587": {
+   "name": "Dyami Brown",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.75
+  },
+  "6847": {
+   "name": "Devin Duvernay",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "5121": {
+   "name": "Braxton Berrios",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 2.85
+  },
+  "4314": {
+   "name": "Johnny Mundt",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 31,
+   "surplus": null,
+   "value_ppg": 2.73
+  },
+  "3155": {
+   "name": "Laquon Treadwell",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 5.2
+  },
+  "2078": {
+   "name": "Odell Beckham",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.29
+  },
+  "12496": {
+   "name": "Tai Felton",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.43
+  },
+  "11574": {
+   "name": "Dylan Laube",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.71
+  },
+  "10231": {
+   "name": "Elijah Higgins",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.49
+  },
+  "9756": {
+   "name": "Jordan Addison",
+   "owner": "jowabl",
+   "cost": 4,
+   "implied_round": 10,
+   "surplus": null,
+   "value_ppg": 7.51
+  },
+  "8523": {
+   "name": "Nick Muse",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "8414": {
+   "name": "Britain Covey",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "8254": {
+   "name": "Julius Chestnut",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.52
+  },
+  "7812": {
+   "name": "Simi Fehoko",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.56
+  },
+  "7535": {
+   "name": "Hunter Long",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.3
+  },
+  "7521": {
+   "name": "Chris Blair",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.64
+  },
+  "6323": {
+   "name": "Andrew Beck",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 36,
+   "surplus": null,
+   "value_ppg": 2.52
+  },
+  "5133": {
+   "name": "Tyler Conklin",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.3
+  },
+  "4995": {
+   "name": "Ian Thomas",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.9
+  },
+  "13477": {
+   "name": "Colbie Young",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.66
+  },
+  "12938": {
+   "name": "Jackson Meeks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.07
+  },
+  "12535": {
+   "name": "Isaac TeSlaa",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.74
+  },
+  "12517": {
+   "name": "Colston Loveland",
+   "owner": "xXJuulGodXx",
+   "cost": 11,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 6.72
+  },
+  "12504": {
+   "name": "Kaleb Johnson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 3.65
+  },
+  "12495": {
+   "name": "Ollie Gordon",
+   "owner": "rrrobert",
+   "cost": 13,
+   "implied_round": 6,
+   "surplus": 7,
+   "value_ppg": 9.52
+  },
+  "11596": {
+   "name": "Ben Sinnott",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 2.43
+  },
+  "11034": {
+   "name": "Jalen Brooks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.26
+  },
+  "11616": {
+   "name": "Jacob Cowing",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.26
+  },
+  "5773": {
+   "name": "KhaDarel Hodge",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.73
+  },
+  "12487": {
+   "name": "Terrance Ferguson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 13,
+   "surplus": null,
+   "value_ppg": 6.35
+  },
+  "11168": {
+   "name": "Xavier Smith",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.29
+  },
+  "12718": {
+   "name": "Konata Mumpfield",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 19,
+   "surplus": null,
+   "value_ppg": 4.89
+  },
+  "8121": {
+   "name": "Romeo Doubs",
+   "owner": "calmitchell00",
+   "cost": 9,
+   "implied_round": 7,
+   "surplus": 2,
+   "value_ppg": 8.51
+  },
+  "7204": {
+   "name": "Reggie Gilliam",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 3.24
+  },
+  "4189": {
+   "name": "Eric Saubert",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.26
+  },
+  "13827": {
+   "name": "Tanner Arkin",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.3
+  },
+  "12547": {
+   "name": "Kyle Williams",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 5.38
+  },
+  "10210": {
+   "name": "Cameron Latu",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.32
+  },
+  "8223": {
+   "name": "Velus Jones",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 2.93
+  },
+  "12521": {
+   "name": "Elijah Arroyo",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.54
+  },
+  "11643": {
+   "name": "Jaylen Wright",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 3.57
+  },
+  "12540": {
+   "name": "Chimere Dike",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 2.94
+  },
+  "12485": {
+   "name": "Tez Johnson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.58
+  },
+  "11655": {
+   "name": "Tyrone Tracy",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.66
+  },
+  "12529": {
+   "name": "TreVeyon Henderson",
+   "owner": "stacks713",
+   "cost": 1,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 6.24
+  },
+  "2307": {
+   "name": "Marcus Mariota",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 14.63
+  },
+  "4035": {
+   "name": "Alvin Kamara",
+   "owner": "jpg107",
+   "cost": 12,
+   "implied_round": 7,
+   "surplus": 5,
+   "value_ppg": 9.04
+  },
+  "11629": {
+   "name": "Devontez Walker",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.58
+  },
+  "8208": {
+   "name": "Tyler Badie",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 4.52
+  },
+  "2306": {
+   "name": "Jameis Winston",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 17,
+   "surplus": null,
+   "value_ppg": 15.22
+  },
+  "7562": {
+   "name": "Tutu Atwell",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.14
+  },
+  "11256": {
+   "name": "Tyson Bagent",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 11.02
+  },
+  "13319": {
+   "name": "Oscar Delp",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.18
+  },
+  "6012": {
+   "name": "Travis Homer",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 35,
+   "surplus": null,
+   "value_ppg": 2.93
+  },
+  "12467": {
+   "name": "Jordan James",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 3.3
+  },
+  "13347": {
+   "name": "Demond Claiborne",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 3.61
+  },
+  "13288": {
+   "name": "Nicholas Singleton",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.8
+  },
+  "12542": {
+   "name": "Efton Chism",
+   "owner": "johnokilltheoreo",
+   "cost": 13,
+   "implied_round": 16,
+   "surplus": null,
+   "value_ppg": 5.45
+  },
+  "7528": {
+   "name": "Najee Harris",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 4.17
+  },
+  "11439": {
+   "name": "Jaleel McLaughlin",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 5.2
+  },
+  "13278": {
+   "name": "Max Klare",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 2.86
+  },
+  "8147": {
+   "name": "John Metchie",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 15,
+   "surplus": null,
+   "value_ppg": 5.66
+  },
+  "13770": {
+   "name": "J. Michael Sturdivant",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 29,
+   "surplus": null,
+   "value_ppg": 2.98
+  },
+  "13151": {
+   "name": "Nick Kallerup",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.3
+  },
+  "11762": {
+   "name": "Anthony Gould",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 32,
+   "surplus": null,
+   "value_ppg": 2.54
+  },
+  "9506": {
+   "name": "Sean Tucker",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 4.59
+  },
+  "5938": {
+   "name": "Lil'Jordan Humphrey",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 25,
+   "surplus": null,
+   "value_ppg": 3.54
+  },
+  "12497": {
+   "name": "Tory Horton",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 20,
+   "surplus": null,
+   "value_ppg": 4.53
+  },
+  "10224": {
+   "name": "Brayden Willis",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 2.55
+  },
+  "8135": {
+   "name": "Treylon Burks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 6.96
+  },
+  "11604": {
+   "name": "Brock Bowers",
+   "owner": "jowabl",
+   "cost": null,
+   "implied_round": 2,
+   "surplus": null,
+   "value_ppg": 13.3
+  },
+  "1737": {
+   "name": "Case Keenum",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 12.67
+  },
+  "11559": {
+   "name": "Michael Penix",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 12,
+   "surplus": null,
+   "value_ppg": 17.55
+  },
+  "6039": {
+   "name": "Ty Johnson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 6.57
+  },
+  "12634": {
+   "name": "Jordan Watkins",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 4.28
+  },
+  "8207": {
+   "name": "Tyler Goodson",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.83
+  },
+  "1339": {
+   "name": "Zach Ertz",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.98
+  },
+  "7596": {
+   "name": "Elijah Moore",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 28,
+   "surplus": null,
+   "value_ppg": 3.01
+  },
+  "7496": {
+   "name": "Nick Westbrook-Ikhine",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.29
+  },
+  "9510": {
+   "name": "Lew Nichols",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 33,
+   "surplus": null,
+   "value_ppg": 3.2
+  },
+  "8117": {
+   "name": "Jalen Tolbert",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 23,
+   "surplus": null,
+   "value_ppg": 3.86
+  },
+  "5086": {
+   "name": "Marquez Valdes-Scantling",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 3.97
+  },
+  "4274": {
+   "name": "David Moore",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 3.97
+  },
+  "13408": {
+   "name": "Tanner Koziol",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 2.86
+  },
+  "13825": {
+   "name": "Malik McClain",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 2.85
+  },
+  "11650": {
+   "name": "Luke McCaffrey",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 26,
+   "surplus": null,
+   "value_ppg": 3.29
+  },
+  "12939": {
+   "name": "Anthony Tyus",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 3.58
+  },
+  "13315": {
+   "name": "Dean Connors",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 34,
+   "surplus": null,
+   "value_ppg": 3.1
+  },
+  "12389": {
+   "name": "Hayden Rucci",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 22,
+   "surplus": null,
+   "value_ppg": 4.05
+  },
+  "13425": {
+   "name": "Jalon Daniels",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 13.61
+  },
+  "4663": {
+   "name": "Austin Ekeler",
+   "owner": "stacks713",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 5.08
+  },
+  "7083": {
+   "name": "Tyler Huntley",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 14,
+   "surplus": null,
+   "value_ppg": 16.24
+  },
+  "7568": {
+   "name": "Brevin Jordan",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 24,
+   "surplus": null,
+   "value_ppg": 3.69
+  },
+  "6386": {
+   "name": "Alex Bachman",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 27,
+   "surplus": null,
+   "value_ppg": 3.29
+  },
+  "2197": {
+   "name": "Brandin Cooks",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 18,
+   "surplus": null,
+   "value_ppg": 5.04
+  },
+  "7720": {
+   "name": "Kene Nwangwu",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 3.58
+  },
+  "4718": {
+   "name": "Dare Ogunbowale",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 30,
+   "surplus": null,
+   "value_ppg": 3.58
+  },
+  "10228": {
+   "name": "Charlie Jones",
+   "owner": "FA",
+   "cost": 13,
+   "implied_round": 21,
+   "surplus": null,
+   "value_ppg": 4.48
+  }
+ }
+}

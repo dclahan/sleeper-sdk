@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 The installable package lives in `python/` — that is the working directory for nearly every command. The root also holds `data/` (committed KTC snapshots), `.claude/commands/` (skills, see below), `.agents/skills/` (a **generated** Codex mirror — never edit it by hand), `scripts/` (repo tooling, not packaged), and two legacy standalone files (`sleeper_wrapper.py`, `sleeper-api.ts`) that are **not** part of the package and are not imported by it.
 
+`keeper/` is a **separate, self-contained** keeper-league toolkit (run with `python3 keeper/run.py <user> --league <name>`; see its README). It is not part of the installable package and is not covered by the package CI.
+
 `.claude/STRUCTURE.md` is the deeper architecture doc for the skill and CLI layers; read it before adding either.
 
 ## Commands

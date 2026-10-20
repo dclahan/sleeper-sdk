@@ -1,0 +1,12 @@
+{
+  "max_keepers": 3,
+  "round_discount": 3,
+  "ww_first_round": 13,
+  "ww_last_round": 15,
+  "readd_resets_cost": true,
+  "decay": 0.9,
+  "prior_games": 2.0,
+  "min_games": 3,
+  "min_cost": 5,
+  "pos_weight": null
+}

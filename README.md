@@ -2,6 +2,8 @@
 
 > A Python toolkit for turning the [Sleeper Fantasy Football API](https://docs.sleeper.com) into a decision-making engine. Typed, async-first, KTC-enriched, and wired into a CLI that can actually propose trades.
 
+> **Keeper league?** Start in [`keeper/`](keeper/README.md) — a weekly keeper-surplus report (cost vs production, waiver adds, trade targets, playoff odds). The KTC dynasty tooling below is the wrong lens for keeper leagues.
+
 ---
 
 ## The story
